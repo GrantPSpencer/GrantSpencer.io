@@ -186,7 +186,9 @@ a {
     text-align: center;
 }
 
-
+#last-seen a:hover {
+    text-decoration: underline;
+}
 /*  about me styles */
 
 /* iphone */
